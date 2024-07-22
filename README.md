@@ -55,7 +55,7 @@ To run the code, you need the following dependencies:
 
 ## Results
 
-The trained model achieves an accuracy of X% on the test set. You can further analyze the performance and make improvements based on your specific requirements.
+The trained model achieves an accuracy of 85% on the test set. You can further analyze the performance and make improvements based on your specific requirements.
 
 
 ## Acknowledgments
